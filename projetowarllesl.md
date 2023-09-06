@@ -18,3 +18,5 @@ Acompanha funcionamento| O acompanha a saida  e as entregas da chaves
 visualizar status| O funcionario pode visualizar que laboratorio hora esta disponivel ou ocupado 
 saida da chaves | quem pegou a chaves 
 entrega | ver se realmente entrega as chaves na saida
+
+## 3. Visão Lógica
